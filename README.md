@@ -2,7 +2,7 @@
 
 > This project puts the knowledge of active record, models, and associations to the tests. We built an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
 
-![screenshot](https://raw.githubusercontent.com/ybadmus/micro-reddit/initial_models/app_screenshot.png)
+![screenshot](https://raw.githubusercontent.com/ybadmus/micro-reddit/initial_models/app_screenshot.PNG)
 
 ## Built With
 
