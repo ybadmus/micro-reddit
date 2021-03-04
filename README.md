@@ -25,9 +25,8 @@ To get a local copy up and running follow these simple steps.
 - run `bundle install`
 - run `rails db: migrate` to migrate the database 
 - run `rails server`
-- run `http://localhost:3000` to view the homepage of the application 
-- finnaly you can use `rails console` to inspect the structure of the database and data stored in it.
-
+- Go to `http://localhost:3000` on your browser to view the homepage of the application 
+- Finnaly run `rails console` to inspect the structure of the database and the data you stored.
 
 ## Prerequisites
 
