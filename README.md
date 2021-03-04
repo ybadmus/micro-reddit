@@ -26,6 +26,7 @@ To get a local copy up and running follow these simple steps.
 - run `rails db: migrate` to migrate the database 
 - run `rails server`
 - run `http://localhost:3000` to view the homepage of the application 
+- finnaly you can use `rails console` to inspect the structure of the database and data stored in it.
 
 
 ## Prerequisites
