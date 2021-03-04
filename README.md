@@ -19,7 +19,13 @@ To get a local copy up and running follow these simple steps.
 - Press the "Code" button and get the repo link.
 - Clone it using git.
 - Open terminal on that folder.
-- Run the next command: ´$ruby "./enumerable_methods.rb"´
+- run `yarn install` 
+- run `npm install`
+- run `rails webpacker:install`
+- run `bundle install`
+- run `rails db: migrate` to migrate the database 
+- run `rails server`
+- run `http://localhost:3000` to view the homepage of the application 
 
 
 ## Prerequisites
